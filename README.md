@@ -1,6 +1,4 @@
-# ecommerce-sql-analysis
-E-commerce data analysis case study using SQL (CTEs, subqueries, GROUP BY, CASE)
-# E-commerce Data Analysis Case Study
+# E-commerce data analysis case study using SQL (CTEs, subqueries, GROUP BY, CASE)
 
 This project analyzes e-commerce transactional data to answer real-world business questions using SQL.
 
